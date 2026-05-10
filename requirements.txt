@@ -1,11 +1,9 @@
 pandas
 numpy
-requests
-tqdm
 scikit-learn
+nltk
 xgboost
-lifelines
-shap
 matplotlib
-jupyter
-notebook
+torch
+tensorflow
+wfdb
