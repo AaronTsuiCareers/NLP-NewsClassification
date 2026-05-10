@@ -1,0 +1,11 @@
+pandas
+numpy
+requests
+tqdm
+scikit-learn
+xgboost
+lifelines
+shap
+matplotlib
+jupyter
+notebook
